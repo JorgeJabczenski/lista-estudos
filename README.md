@@ -1,4 +1,7 @@
-# Coisas pra estudar, eu acho
+# xtds
+
+## Ferramentas
+ - [Compile Explorer](https://godbolt.org/)
 
 ## ALG III
  - [ ] Árvores Binárias
